@@ -1,0 +1,37 @@
+html {
+	background-image: url(/images/concrete_seamless.png);
+	background-size: absolute;
+}
+
+body {
+	font: 400 14pt sans-serif;
+}
+
+nav {
+	background-color: #3f3f3f;	
+	color: white;
+	padding: 5px 5px;
+}
+
+a.nav-bar {
+	color: white;
+}
+
+.include {
+	border-top-style: solid;
+	border-bottom-style: solid;
+	padding: 10px;
+	border-width: 1px;
+	padding: 10px 8px 10px 8px;
+	background-color: white;
+}
+
+a.logo {
+	font: normal 16pt sans-serif;
+	color: #3f3f3f;
+	text-decoration: none;
+}
+
+div.browse {
+	margin: 2px;
+}
